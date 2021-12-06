@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-cm6-openmd",
+	"name": "CM6 OpenMD Parser",
+	"version": "0.0.1",
+	"minAppVersion": "0.13.5",
+	"description": "Replace the default CM6 markdown parser with OpenMD",
+  "author": "NothingIsLost",
+  "authorUrl": "https://github.com/nothingislost",
+  "isDesktopOnly": true
+}
